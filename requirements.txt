@@ -1,6 +1,17 @@
+# Core dependencies
+google-generativeai==0.3.2
+python-dotenv==1.0.1
 
-gradio
-openai
-speechrecognition
-pyttsx3
-pyaudio
+# Web UI
+gradio==4.25.0
+
+# Voice assistant (if you're using voice input/output)
+SpeechRecognition==3.10.0
+PyAudio==0.2.14
+pyttsx3==2.90
+
+# JSON and order saving (standard lib, listed for clarity)
+jsonschema==4.21.1
+
+# Optional: For better HTTPS support
+urllib3==2.2.1
