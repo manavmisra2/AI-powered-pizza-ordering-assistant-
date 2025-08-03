@@ -1,0 +1,21 @@
+order
+"Excellent! Your order has been confirmed and is now being prepared.
+
+```json
+{
+  ""order"": {
+    ""pizzas"": [
+      {
+        ""type"": ""Margherita"",
+        ""toppings"": [""Extra Cheese"", ""Olives""]
+      }
+    ],
+    ""extras"": [],
+    ""dietary_notes"": [""Allergic to Feta Cheese""],
+    ""delivery_address"": ""SRH Berlin Campus""
+  },
+  ""status"": ""confirmed""
+}
+```
+
+Your delicious Margherita pizza with extra cheese and olives will be on its way to SRH Berlin Campus shortly! Thank you for ordering with us!"

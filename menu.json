@@ -1,0 +1,18 @@
+{
+  "pizzas": [
+    "Margherita",
+    "Pepperoni",
+    "Veggie",
+    "Hawaiian"
+  ],
+  "toppings": [
+    "Mushrooms",
+    "Onions",
+    "Extra Cheese",
+    "Olives"
+  ],
+  "extras": [
+    "Garlic Bread",
+    "Soft Drink"
+  ]
+}
