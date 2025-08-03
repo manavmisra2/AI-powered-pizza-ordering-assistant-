@@ -27,9 +27,7 @@ AI_assistant_project/
 │   ├── dialog_agent.py               # Conversation flow and AI interaction logic
 │   ├── gemini_client.py              # Gemini API communication client
 │   ├── order_saver.py                # Order persistence in multiple formats
-│   ├── utils.py                      # Utility functions (parsing, validation, formatting)
 │   ├── menu.json                    # Pizza menu data file (JSON)
-│   ├── request_counter.txt          # Tracks number of order sessions
 │
 ├── frontend/                        # Frontend launcher scripts for user interaction
 │   ├── run_gradio.py                # Launches the Gradio text-based web UI
@@ -38,17 +36,14 @@ AI_assistant_project/
 ├── docs/                           # Documentation, flowcharts, and screenshots
 │   ├── flowchart/                  # Flowchart images and source files
 │   ├── screenshots/                # UI and conversation screenshots
-│   ├── Mermaidlive.png             # Mermaid flowchart image
 │   ├── README.md                   # Detailed project documentation
 │   └── report.pdf                  # Full project report document
 │
-├── tests/                         # (Optional) Automated test scripts
 │
 ├── .env                          # Environment variables (API keys) [gitignored]
 ├── .gitignore                    # Specifies files/folders to ignore in Git
 ├── requirements.txt              # Python package dependencies
 ├── chat_transcript.txt           # Sample chat log from an interaction
-├── screenshot.png                # General UI screenshot for documentation
 └── README.md                    # This file — project overview and setup
 ```
 
@@ -149,3 +144,4 @@ This project is licensed under the MIT License.
 
 Thank you for exploring the AI-Powered Pizza Ordering Assistant!\
 Feel free to open issues or submit pull requests for improvements.
+
