@@ -1,0 +1,6 @@
+
+gradio
+openai
+speechrecognition
+pyttsx3
+pyaudio
