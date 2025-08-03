@@ -93,7 +93,7 @@ GEMINI_API_KEY="Insert_Your_API_Key_Here"
 5. **Run the Gradio Chat Interface**
 
 ```bash
-python frontend/run_gradio.py
+python run_gradio.py
 ```
 
 Open your browser and navigate to: [http://127.0.0.1:7860](http://127.0.0.1:7860)
@@ -101,7 +101,7 @@ Open your browser and navigate to: [http://127.0.0.1:7860](http://127.0.0.1:7860
 6. **(Optional) Run the Voice Assistant**
 
 ```bash
-python frontend/voice_chatbot.py
+python voice_chatbot.py
 ```
 
 ---
