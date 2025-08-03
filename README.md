@@ -12,8 +12,6 @@ The system is composed of the following components:
 #### **Frontend**
 - `run_gradio.py`: Launches a Gradio web-based interface for interaction.
 - `voice_chatbot.py`: Enables voice input/output interaction.
-- `index.html`: (Legacy alternative) Provides static HTML structure.
-- `styles.css`: Defines the appearance and responsiveness of the UI.
 
 #### **Backend**
 - `dialog_agent.py`: **Core logic handler**. This file communicates directly with the Gemini API and manages the full conversation lifecycle.
